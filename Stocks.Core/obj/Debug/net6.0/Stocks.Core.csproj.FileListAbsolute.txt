@@ -1,0 +1,36 @@
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.deps.json
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.dll
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.pdb
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.AssemblyReference.cache
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfoInputs.cache
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfo.cs
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.CoreCompileInputs.cache
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.dll
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\refint\Stocks.Core.dll
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.pdb
+D:\MyWork\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\ref\Stocks.Core.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.deps.json
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.AssemblyReference.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfoInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfo.cs
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.CoreCompileInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\refint\Stocks.Core.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\ref\Stocks.Core.dll
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\bin\Debug\net6.0\Stocks.Core.deps.json
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\bin\Debug\net6.0\Stocks.Core.dll
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\bin\Debug\net6.0\Stocks.Core.pdb
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.AssemblyReference.cache
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfoInputs.cache
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfo.cs
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.CoreCompileInputs.cache
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.dll
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\refint\Stocks.Core.dll
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\Stocks.Core.pdb
+D:\MyWork\BackEnd\.NetCore\StockMarketProject\Stocks.Core\obj\Debug\net6.0\ref\Stocks.Core.dll

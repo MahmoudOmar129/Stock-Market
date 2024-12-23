@@ -1,0 +1,5 @@
+{
+  "Stocks.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyWork\\BackEnd\\.Net core Source Code\\AspNetCore-Harsha-main\\Assignment Solutions\\22. Section 24 - Clean Architecture - Stocks App\\Stocks.Core",
+  "Stocks.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyWork\\BackEnd\\.Net core Source Code\\AspNetCore-Harsha-main\\Assignment Solutions\\22. Section 24 - Clean Architecture - Stocks App\\Stocks.Infrastructure",
+  "Stocks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\MyWork\\BackEnd\\.Net core Source Code\\AspNetCore-Harsha-main\\Assignment Solutions\\22. Section 24 - Clean Architecture - Stocks App\\Stocks.Web"
+}
